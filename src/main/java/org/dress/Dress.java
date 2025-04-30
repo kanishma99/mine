@@ -13,5 +13,16 @@ public class Dress {
 		System.out.println("3");
 
 	}
+	private void b() {
+		System.out.println("4");
 
+	}
+	private void w() {
+		System.out.println("5");
+
+	}
+	private void g() {
+		System.out.println("6");
+
+	}
 }
