@@ -5,24 +5,44 @@ public class Dress {
 		System.out.println("1");
 
 	}
+
 	private void white() {
 		System.out.println("2");
 
 	}
+
 	private void green() {
 		System.out.println("3");
 
 	}
-	
+
+	private void b() {
+		System.out.println("4");
+
+	}
+
+	private void w() {
+		System.out.println("5");
+
+	}
+
+	private void g() {
+		System.out.println("6");
+
+	}
+
 	private void mob() {
 		System.out.println("samsung");
 
 	}
+
 	private void cover() {
 		System.out.println("vivo");
 
 	}
+
 	private void backcover() {
 		System.out.println("design");
-}
+
+	}
 }
