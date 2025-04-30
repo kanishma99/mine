@@ -13,5 +13,16 @@ public class Dress {
 		System.out.println("3");
 
 	}
+	
+	private void mob() {
+		System.out.println("samsung");
 
+	}
+	private void cover() {
+		System.out.println("vivo");
+
+	}
+	private void backcover() {
+		System.out.println("design");
+}
 }
